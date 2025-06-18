@@ -126,7 +126,7 @@ function App() {
           Simplicity
         </a>{" "}
         is a typed, combinator-based, functional language without loops or
-        recursion. It is formally verified, and can be statically analyzed with
+        recursion. It is formally specified, and can be statically analyzed with
         upper bounds on computation resources prior to execution. Simplicity has
         the desirable property of being Turing incomplete, but can express any
         finitary function.{" "}
